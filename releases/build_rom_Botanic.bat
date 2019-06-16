@@ -1,8 +1,8 @@
 @echo off
 
-set    zip=bagman.zip
-set ifiles=e9_b05.bin+f9_b06.bin+f9_b07.bin+k9_b08.bin+m9_b09s.bin+n9_b10.bin+t9_b12.bin+t9_b12.bin+t9_b12.bin +t9_b12.bin +t9_b12.bin +t9_b12.bin +t9_b12.bin +t9_b12.bin +t9_b12.bin +t9_b12.bin +e1_b02.bin+c1_b01.bin+j1_b04.bin+f1_b03s.bin+r9_b11.bin+t9_b12.bin
-set  ofile=a.bagman.rom
+set    zip=botanic.zip
+set ifiles=5.9e+06.9f+07.9j+08.9k+09.9m+10.9n+09.9m+10.9n+2.1e+1.1c+4.1j+3.1f+prom.3p+prom.3r
+set  ofile=a.botanic.rom
 
 rem =====================================
 setlocal ENABLEDELAYEDEXPANSION
